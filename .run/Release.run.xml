@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Release" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="wg-manage" />
+    <working_directory value="$PROJECT_DIR$" />
+    <envs>
+      <env name="CGO_ENABLED" value="0" />
+    </envs>
+    <kind value="PACKAGE" />
+    <package value="github.com/ofcoursedude/wg-manage" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
